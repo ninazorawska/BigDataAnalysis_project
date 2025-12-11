@@ -1,0 +1,64 @@
+# ----------------------------
+# Python
+# ----------------------------
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.pkl
+*.egg-info/
+.env
+.venv/
+venv/
+env/
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+*/.ipynb_checkpoints/
+
+# Jupyter Notebook autosave files
+*.ipynb~
+
+# ----------------------------
+# macOS system files
+# ----------------------------
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# ----------------------------
+# Spark / Hadoop / Java
+# ----------------------------
+.metastore/
+derby.log
+spark-warehouse/
+*.crc
+*.parquet
+
+# ----------------------------
+# VS Code
+# ----------------------------
+.vscode/
+
+# ----------------------------
+# Logs
+# ----------------------------
+*.log
+
+# ----------------------------
+# Data files (optional)
+# If your repo contains datasets, ignore local versions
+# Remove this section if datasets SHOULD be committed
+# ----------------------------
+Data/*.csv
+Data/*.tsv
+Data/*.json
+Data/*.parquet
+Data/*.xml
+Data/*.xlsx
+
+# ----------------------------
+# Temporary files
+# ----------------------------
+*.tmp
+*.temp
