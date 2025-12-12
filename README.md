@@ -32,4 +32,4 @@ We explore how Spark can efficiently handle diverse analytical workloads, from r
  - MongoDB integration for real-time and persistence extensions
 
 By combining multiple datasets — such as chemical properties of wines, product reviews, and sensor or demographic data — the project highlights Spark’s flexibility across different data domains.
-The resulting pipeline includes data cleaning, feature engineering, visualization, and machine learning models (Decision Tree, Random Forest, Gradient-Boosted Trees, and Neural Networks), along with interpretability analysis and cross-dataset insights.
+The resulting pipeline includes data cleaning, feature engineering, visualization, and machine learning models (Decision Tree, Random Forest, Logistic Regression, SVM and Neural Networks), along with interpretability analysis and cross-dataset insights.
