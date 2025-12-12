@@ -1,7 +1,5 @@
 # BigDataAnalysis_project
 
-# BigDataAnalysis_project
-
 In this project we demonstrate the capabilities of Spark for large-scale data processing, analysis, and machine learning.
 We used three real-world datasets:
 
